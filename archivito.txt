@@ -1,0 +1,6 @@
+tenemos que:
+1) setear un store, donde vamos a obtener nuestros.
+2) creamos nuestras actions, en nuestro caso, solo vamos a tener
+la action fetchUsers, deleteUsers
+3) reducer que va a actualizar nuestro estado de users
+4) hooks de react-redux para traernos el estado y poder ejecutar las actions
